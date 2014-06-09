@@ -1,5 +1,5 @@
-name = Heritage
-description = Theme for the HBC website
+name = Template
+description = Starter template
 package = Custom
 version = VERSION
 core = 7.x

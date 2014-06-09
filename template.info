@@ -1,0 +1,13 @@
+name = Heritage
+description = Theme for the HBC website
+package = Custom
+version = VERSION
+core = 7.x
+
+regions[header] = Header
+regions[content] = Main Content
+regions[footer] = Footer
+
+
+stylesheets[all][] = dist/css/styles.css
+scripts[] = dist/js/scripts.min.js
